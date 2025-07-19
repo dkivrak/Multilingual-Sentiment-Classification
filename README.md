@@ -17,5 +17,4 @@ The pretrained model and tokenizer are hosted on Huggingface Hub:
 [https://huggingface.co/dkivrak/multilingual-sentiment-classification](https://huggingface.co/dkivrak/multilingual-sentiment-classification)
 
 ## Dataset Access
-The datasets used in this project are not publicly shared due to licensing restrictions. If you wish to access the datasets for research or educational purposes, please contact me directly.
-
+The datasets used in this project are not publicly shared due to licensing restrictions.
